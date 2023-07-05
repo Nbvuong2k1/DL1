@@ -1,0 +1,17 @@
+.footer{
+    background-color: black;
+}
+
+.row{
+    margin-left: 5%;
+    margin-right: 0%;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-gap :0px;
+
+}
+
+.con-row{
+    margin-top: 5%;
+}
